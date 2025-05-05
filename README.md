@@ -1,2 +1,1 @@
-# MockMate-AI
-LLM group project, MockMate AI 
+# LLM_Project

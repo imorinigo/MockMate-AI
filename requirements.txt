@@ -1,0 +1,11 @@
+# Dev environment
+pip
+autopep8
+
+# App
+flask
+cohere
+PyPDF2
+
+#libraries
+librosa
